@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Xeno Interactions LLC",
   description: "Games and interactive projects by Xeno Interactions LLC",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({
